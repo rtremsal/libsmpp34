@@ -1,3 +1,7 @@
+=== smpp34-1.10 ===
+2013-01-04  Raul Tremsal  <rtremsal@gmail.com>
+	* Faltaba esto.
+
 === smpp34-1.9 ===
 2007-06-04  Raul Tremsal  <ultraismo@yahoo.com>
 	* Fix some warnings in compilations with gcc-4.x
